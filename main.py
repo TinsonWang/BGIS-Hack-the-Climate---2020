@@ -56,7 +56,7 @@ print(results)
 # plt.legend()
 # plt.show()
 
-# Below are various error measurements printed to the screen. I have no fucking clue how to interpret it. LOL
+# Below are various error measurements printed to the screen.
 # print('Mean Absolute Error: ', metrics.mean_absolute_error(y_test, y_pred) )
 # print('Mean Squared Error: ', metrics.mean_squared_error(y_test, y_pred) )
 # print('Root Mean Squared Error: ', np.sqrt(metrics.mean_squared_error(y_test, y_pred)) )
