@@ -5,8 +5,8 @@ Project for the first Hack the Climate online Hackathon provided by the Internat
 Website url: https://www.bgis.com/hackingclimate.htm
 
 Group members:
-1. Tinson Wang
-2. Wency Go 
+1. Tinson Wang, University of Guelph Computer Science Undergraduate student (tinson@uoguelph.ca)
+2. Wency Go, University of British Columbia Electrical Engineering Undergraduate student (wency.go@alumni.ubc.ca) 
 
 Our project aims to deploy machine learning to predict patterns in energy consumption, prices, and expenditures. 
 Datasets are formatted in R. Machine learning performed in Python. 
